@@ -26,6 +26,8 @@
 | 8월 1주차 | 1012 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [유기농 배추](https://www.acmicpc.net/problem/1012) |
 | 8월 2주차 | 16926 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
 | 8월 3주차 | 22866 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [탑 보기](https://www.acmicpc.net/problem/22866) |
+| 8월 4주차 | 2492 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [보석](https://www.acmicpc.net/problem/2492) |
+
 
 
 <br>
